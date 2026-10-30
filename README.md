@@ -17,9 +17,9 @@
 
 I'm an **Information and Communication Technologies student at Universidad Invenio**, currently completing my professional internship at **OPSG**. I enjoy turning slow, manual processes into simple, reliable software, and I care about clear requirements, clean architecture and testing before anything ships.
 
-- 🎓 ICT student · Universidad Invenio
-- 💼 Professional internship · OPSG
-- 🌱 Currently focused on product design, system architecture and full-stack development
+- <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-education.svg" width="16" height="16" alt="Education"> ICT student · Universidad Invenio
+- <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-work.svg" width="16" height="16" alt="Work"> Professional internship · OPSG
+- <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-focus.svg" width="16" height="16" alt="Focus"> Currently focused on product design, system architecture and full-stack development
 
 ## Tech stack
 
