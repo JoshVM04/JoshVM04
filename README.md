@@ -5,12 +5,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=79B8FF&center=true&vCenter=true&width=620&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
-    <img alt="Turning manual processes into reliable software" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=0A2540&center=true&vCenter=true&width=620&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=79B8FF&center=true&vCenter=true&width=620&height=36&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
+    <img alt="Turning manual processes into reliable software" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=0A2540&center=true&vCenter=true&width=620&height=36&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
   </picture>
-</p>
-
-<p align="center">
+  <br>
   <a href="mailto:jvelasquezm@student.invenio.ac.cr"><img alt="Email" src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/josua-velasquez-82b570359"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
