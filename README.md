@@ -25,7 +25,7 @@ I'm an **Information and Communication Technologies student at Universidad Inven
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,express,svelte,tailwind,vite,postgres,prisma,redis,docker,git,github,vscode&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnodejs%2Cexpress%2Csvelte%2Ctailwind%2Cvite%2Cpostgres%2Cprisma%2Credis%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=8">
     <img alt="Python, TypeScript, JavaScript, React, Node.js, Express, Svelte, Tailwind, Vite, PostgreSQL, Prisma, Redis, Docker, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,express,svelte,tailwind,vite,postgres,prisma,redis,docker,git,github,vscode&theme=light&perline=8">
   </picture>
 </p>
