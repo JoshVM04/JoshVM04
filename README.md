@@ -10,15 +10,15 @@
   </picture>
   <br>
   <a href="mailto:jvelasquezm@student.invenio.ac.cr"><img alt="Email" src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/josua-velasquez-82b570359"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joshua-velasquez-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## About me
 
-I'm an **Information and Communication Technologies student at Universidad Invenio**, currently completing my professional internship at **OPSG**. I enjoy turning slow, manual processes into simple, reliable software, and I care about clear requirements, clean architecture and testing before anything ships.
+I'm an **Information and Communication Technologies student at Universidad Invenio**, currently completing my Professional Practice III at **OPSG**. I enjoy turning slow, manual processes into simple, reliable software, and I care about clear requirements, clean architecture and testing before anything ships.
 
 - <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-education.svg" width="16" height="16" alt="Education"> ICT student · Universidad Invenio
-- <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-work.svg" width="16" height="16" alt="Work"> Professional internship · OPSG
+- <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-work.svg" width="16" height="16" alt="Work"> Professional practice · OPSG
 - <img src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/icon-focus.svg" width="16" height="16" alt="Focus"> Currently focused on product design, system architecture and full-stack development
 
 ## Tech stack
@@ -37,7 +37,7 @@ I'm an **Information and Communication Technologies student at Universidad Inven
 | Project | What it does | Stack |
 |---|---|---|
 | **VyV Field Tickets** | Windows desktop app that reads daily machinery work tickets from photos, validates them with clear rules, files them by zone and generates the month-end reports automatically. | Python |
-| **Food Ordering App (OPSG internship)** | Ordering and delivery application for a food business. Currently in the product design stage: requirements, architecture, UX and data model. | In design |
+| **Food Ordering App (OPSG professional practice)** | Ordering and delivery application for a food business. Currently in the product design stage: requirements, architecture, UX and data model. | In design |
 | **SaaS Platform** | Multi-tenant platform where small businesses turn on only the modules they need: inventory, appointments, finances and customers. | React · TypeScript · Node.js · PostgreSQL |
 
 
