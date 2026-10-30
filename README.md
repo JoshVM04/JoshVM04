@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D2A4F,100:1F4E8C&height=190&text=Joshua%20Vel%C3%A1squez&fontColor=E6EDF3&fontSize=40&fontAlignY=34&desc=ICT%20Student%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=54">
-  <img alt="Joshua Velásquez — ICT Student · Software Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1F4E8C&height=190&text=Joshua%20Vel%C3%A1squez&fontColor=FFFFFF&fontSize=40&fontAlignY=34&desc=ICT%20Student%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=54" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/banner-dark.svg">
+  <img alt="Joshua Velásquez — ICT Student at Universidad Invenio · Software Developer" src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=79B8FF&center=true&vCenter=true&width=620&lines=Information+and+Communication+Technologies+student;Building+practical+software+for+real+businesses;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+PostgreSQL">
-    <img alt="Information and Communication Technologies student" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=0A2540&center=true&vCenter=true&width=620&lines=Information+and+Communication+Technologies+student;Building+practical+software+for+real+businesses;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+PostgreSQL">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=79B8FF&center=true&vCenter=true&width=620&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
+    <img alt="Turning manual processes into reliable software" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=0A2540&center=true&vCenter=true&width=620&lines=Turning+manual+processes+into+reliable+software;Full-stack+development+with+Python+and+TypeScript;Product+design+%C2%B7+Architecture+%C2%B7+Testing">
   </picture>
 </p>
 
@@ -51,6 +51,6 @@ I'm an **Information and Communication Technologies student at Universidad Inven
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E8C,100:0D2A4F&height=100&section=footer">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E8C,100:0A2540&height=100&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/footer-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/JoshVM04/JoshVM04/main/assets/footer-light.svg" width="100%">
 </picture>
